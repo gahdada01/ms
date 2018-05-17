@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/gahdada01/ms/issues"
   },
-  "homepage": "https://github.com/gahdada01/ms#readme"
+  "homepage": "https://github.com/gahdada01/ms#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "qr-image": "^3.2.0"
+  }
 }
